@@ -1,0 +1,89 @@
+{
+  "productVersion" : "1.0.0",
+  "regionUUID" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+  "distanceRange" : 3,
+  "beacons" : [
+    {
+      "name": "Parking-Kvkl",  
+      "latitude" : 22.9917892,
+      "longitude" : 72.6410853,
+      "major" : 29838,
+      "minor" : 13529,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "parking beacon - location 1"
+    },
+    {
+      "name": "TicketScan-TA8u",  
+      "latitude" : 22.9917862,
+      "longitude" : 72.6410859,
+      "major" : 29526,
+      "minor" : 39101,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "ticket scan verification beacon - location 1"
+    },
+    {
+      "name": "Seating-lEHi",  
+      "latitude" : 22.9917889,
+      "longitude" : 72.6410854,
+      "major" : 18490,
+      "minor" : 47425,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "Seating guidance beacon - location 1"
+    },
+    {
+      "name": "Parking-KfNL",  
+      "latitude" : 23.114605,
+      "longitude" : 72.553490,
+      "major" : 9285,
+      "minor" : 61590,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "parking beacon - location 2"
+    },
+    {
+      "name": "TicketScan-gEPZ",  
+      "latitude" : 23.114605,
+      "longitude" : 72.553490,
+      "major" : 10774,
+      "minor" : 49934,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "ticket scan verification beacon - location 2"
+    },
+    {
+      "name": "Seating-6Ig0",  
+      "latitude" : 22.9917889,
+      "longitude" : 72.6410854,
+      "major" : 15856,
+      "minor" : 54751,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "Seating guidance beacon - location 2"
+    },
+    {
+      "name": "Parking-Evolv_1",  
+      "latitude" : 42.7384,
+      "longitude" : -71.6663,
+      "major" : 5767,
+      "minor" : 30068,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "parking beacon - location 3"
+    },
+    {
+      "name": "TicketScan-Evolv_2",  
+      "latitude" : 42.7384,
+      "longitude" : -71.6663,
+      "major" : 16196,
+      "minor" : 41448,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "ticket scan verification beacon - location 3"
+    },
+    {
+      "name": "Seating-Evolv_3",  
+      "latitude" : 42.7384,
+      "longitude" : -71.6663,
+      "major" : 2686,
+      "minor" : 48738,
+      "uuid" : "f7826da6-4fa2-4e98-8024-bc5b71e0893e",
+      "label" : "Seating guidance beacon - location 3"
+    }
+  ]
+  
+}
